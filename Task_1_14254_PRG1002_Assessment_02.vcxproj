@@ -24,6 +24,7 @@
     <ProjectGuid>{b25db92b-09b9-4c22-a03c-7a70bd4911c5}</ProjectGuid>
     <RootNamespace>Task114254PRG1002Assessment02</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14254_Pradhan_Ronak_PRG1002_Assessment_02</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
